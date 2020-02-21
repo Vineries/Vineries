@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Vineries/Napa
+[submodule "admin"]
+	path = admin
+	url = https://github.com/Vineries/Admin
+[submodule "api"]
+	path = api
+	url = https://github.com/Vineries/GrapeVine
